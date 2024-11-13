@@ -1,2 +1,2 @@
-# Projeto de sistema bancario financeiro por objecto.
+# Projeto de sistema bancario financeiro por objeto.
 
